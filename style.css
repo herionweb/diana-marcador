@@ -1,0 +1,68 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Orelega One", cursive;
+}
+
+body {
+    background-color: #ccc;
+}
+
+h2 {
+    font-size: 46px !important;
+}
+
+h3 {
+    font-size: 90px !important;
+    color: #9d1f13;
+}
+
+p {
+    font-size: 22px !important;
+    text-transform: lowercase;
+}
+
+h4 {
+    font-size: 50px !important;
+}
+
+input {
+    width: 40%;
+    font-size: 30px !important;
+    border: 2px solid #212529 !important;
+}
+
+button {
+    width: 40%;
+    font-size: 30px !important;
+    border: 2px solid #212529 !important;
+    transition: 300ms;
+}
+
+button:hover {
+    background: #212529;
+    color: #ffffff;
+}
+
+.card {
+    border: 3px solid #212529 !important;
+}
+
+
+/* ****************  Titulo Diana  ******************** */
+
+.rojo {
+    color: #9d1f13;
+}
+
+span {
+    font-size: 130px;
+}
+
+.curso2 {
+    text-align: center;
+}
+
+.parrafo-curso {
+    text-align: center;
+}
